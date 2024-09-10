@@ -1,5 +1,4 @@
-#Em Busca da Cidade Perdida 🧭
-
+##Em Busca da Cidade Perdida 🧭
 
 Este é o projeto de um jogo de aventura baseado em texto, onde uma pessoa usuária toma decisões que influenciam o boato da história. O objetivo é encontrar uma cidade perdida seguindo pistas em uma carta antiga.
 
